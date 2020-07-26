@@ -1,2 +1,2 @@
 # sorting_algorithms_C
-Some sorting algorithms written in C
+Some sorting algorithms written in C.
