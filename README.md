@@ -1,3 +1,3 @@
 # sorting_algorithms_C
 
-Ok tester git
+Ok tester git igen.
