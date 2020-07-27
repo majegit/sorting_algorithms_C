@@ -62,10 +62,11 @@ void merge(int A[], int l, int m, int r) {
     }
 }
 
+//Just to test the mergeSort function
 int main() {
-    int numbers[3] = {1,7,3};
-    mergeSort(numbers, 0, 3-1);
-    for(int i=0; i < 3; i++)
+    int numbers[7] = {1,7,3,2,5,4,6};
+    mergeSort(numbers, 0, 7-1);
+    for(int i=0; i < 7; i++)
         printf("Here is numbers[%d]: %d\n",i,numbers[i]);
     return 0;
 }
